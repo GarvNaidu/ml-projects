@@ -1,0 +1,122 @@
+[
+    {
+        "Employee_ID":"EMP001",
+        "Name":"Rahul Sharma",
+        "Age":28,
+        "Gender":"Male",
+        "Department":"IT",
+        "City":"Delhi",
+        "Salary":"45000",
+        "Joining_Date":"2023-05-15",
+        "Experience_Years":3,
+        "Performance_Rating":4.5
+    },
+    {
+        "Employee_ID":"EMP002",
+        "Name":"Priya Singh",
+        "Age":35,
+        "Gender":"Female",
+        "Department":"HR",
+        "City":"Mumbai",
+        "Salary":"62000",
+        "Joining_Date":"2023\/06\/20",
+        "Experience_Years":5,
+        "Performance_Rating":3.8
+    },
+    {
+        "Employee_ID":"EMP003",
+        "Name":"Amit Kumar",
+        "Age":42,
+        "Gender":"M",
+        "Department":"Sales",
+        "City":"Bangalore",
+        "Salary":"75000",
+        "Joining_Date":"15-07-2023",
+        "Experience_Years":8,
+        "Performance_Rating":5.0
+    },
+    {
+        "Employee_ID":"EMP004",
+        "Name":"",
+        "Age":"thirty",
+        "Gender":"f",
+        "Department":"IT",
+        "City":"delhi",
+        "Salary":"80000",
+        "Joining_Date":"",
+        "Experience_Years":2,
+        "Performance_Rating":4.2
+    },
+    {
+        "Employee_ID":"EMP005",
+        "Name":"Sonia Gupta",
+        "Age":999,
+        "Gender":"Female",
+        "Department":"Marketing",
+        "City":"Mumbai",
+        "Salary":"12,00,000",
+        "Joining_Date":"2023-08-10",
+        "Experience_Years":"",
+        "Performance_Rating":2.5
+    },
+    {
+        "Employee_ID":"EMP006",
+        "Name":"Rajesh Patel",
+        "Age":-5,
+        "Gender":"male",
+        "Department":"Finance",
+        "City":"Hyderabad",
+        "Salary":"",
+        "Joining_Date":"2023-09-05",
+        "Experience_Years":10,
+        "Performance_Rating":6.0
+    },
+    {
+        "Employee_ID":"EMP007",
+        "Name":"Meena Devi",
+        "Age":31,
+        "Gender":"",
+        "Department":"IT",
+        "City":"Bangalore",
+        "Salary":"55k",
+        "Joining_Date":"10\/10\/2023",
+        "Experience_Years":4,
+        "Performance_Rating":3.9
+    },
+    {
+        "Employee_ID":"EMP008",
+        "Name":"Vikram Singh",
+        "Age":"",
+        "Gender":"MALE",
+        "Department":"Sales",
+        "City":"Hyderabad",
+        "Salary":"68000",
+        "Joining_Date":"2023-11-12",
+        "Experience_Years":"seven",
+        "Performance_Rating":""
+    },
+    {
+        "Employee_ID":"EMP009",
+        "Name":"Anjali Sharma",
+        "Age":45,
+        "Gender":"F",
+        "Department":"marketing",
+        "City":"hyderabad",
+        "Salary":"95000",
+        "Joining_Date":"2023-12-01",
+        "Experience_Years":12,
+        "Performance_Rating":4.7
+    },
+    {
+        "Employee_ID":"EMP010",
+        "Name":"Rohan Mehra",
+        "Age":29,
+        "Gender":"Female",
+        "Department":"HR",
+        "City":"Chennai",
+        "Salary":"52000",
+        "Joining_Date":"2024-01-15",
+        "Experience_Years":3,
+        "Performance_Rating":4.1
+    }
+]

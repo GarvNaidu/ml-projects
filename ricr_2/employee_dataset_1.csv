@@ -1,0 +1,11 @@
+Employee_ID,Name,Age,Gender,Department,City,Salary,Joining_Date,Experience_Years,Performance_Rating
+EMP001,Rahul Sharma,28,Male,IT,Delhi,45000,2023-05-15,3,4.5
+EMP002,Priya Singh,35,Female,HR,Mumbai,62000,2023/06/20,5,3.8
+EMP003,Amit Kumar,42,M,Sales,Bangalore,75000,15-07-2023,8,5.0
+EMP004,,thirty,f,IT,delhi,80000,,2,4.2
+EMP005,Sonia Gupta,999,Female,Marketing,Mumbai,"12,00,000",2023-08-10,,2.5
+EMP006,Rajesh Patel,-5,male,Finance,Hyderabad,,2023-09-05,10,6.0
+EMP007,Meena Devi,31,,IT,Bangalore,55k,10/10/2023,4,3.9
+EMP008,Vikram Singh,,MALE,Sales,Hyderabad,68000,2023-11-12,seven,
+EMP009,Anjali Sharma,45,F,marketing,hyderabad,95000,2023-12-01,12,4.7
+EMP010,Rohan Mehra,29,Female,HR,Chennai,52000,2024-01-15,3,4.1
